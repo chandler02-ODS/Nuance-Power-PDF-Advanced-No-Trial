@@ -1,0 +1,1 @@
+# Nuance-Power-PDF-Advanced-No-Trial
